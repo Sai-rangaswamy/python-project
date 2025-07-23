@@ -5,6 +5,7 @@ from logging import exception
 import game_data
 import random
 import art
+print("hello")
 
 
 # Create a logger object
